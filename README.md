@@ -1,11 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=bsudz&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=bsudz29">
-    <img src="https://komarev.com/ghpvc/?username=bsudz29&label=Profile%20views&color=00FFFF&style=flat-square" alt="bsudz29's profile views" />
-  </a>
-</p>
-
 ## 📌 About Me
 - I'm currently in the process of learning Python, specifically in how to apply to projects. I'm also beginning to learn libraries like Pandas for data manipulation along with Streamlit for putting Python projects on the web.
 
