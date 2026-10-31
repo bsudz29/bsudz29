@@ -1,4 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=bsudz&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
+
 ## 📌 About Me
 - I'm currently in the process of learning Python, specifically in how to apply to projects. I'm also beginning to learn libraries like Pandas for data manipulation along with Streamlit for putting Python projects on the web.
 
