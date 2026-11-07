@@ -6,13 +6,9 @@
 
 **Brian Sudberg**
 
-**Languages**
+##Languages**
 
 - Python
-
-## Languages I'm practicing
-
-- **Python** · 100%
 
 ## Projects in progress
 
@@ -53,21 +49,11 @@ Stars: 0 · Forks: 0
   <img src="https://www.gitskins.com/api/section/stats?username=bsudz29&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F110067561%3Fv%3D4" alt="bsudz29 stats visual" />
 </p>
 
-## Study streak
+## Activity Streak
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/heatmap?username=bsudz29&theme=zen" alt="bsudz29 contribution activity" />
 </p>
-
-## Say hi
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=bsudz29&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F110067561%3Fv%3D4" alt="bsudz29 social visual" />
-</p>
-
-<a href="https://github.com/bsudz29">GitHub</a>
-
-<p align="center"><sub>Brian Sudberg · <a href="https://www.gitskins.com/readme-generator?template=community-study-hall-mr46">Study Hall</a> template by <a href="https://www.gitskins.com/templates">GitSkins</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 
 <!-- gitskins:architecture -->
 ### How [blackjack](https://github.com/bsudz29/blackjack) works
