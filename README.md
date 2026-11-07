@@ -1,39 +1,83 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=bsudz&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
-
-## 📌 About Me
-- I'm currently in the process of learning Python, specifically in how to apply to projects. I'm also beginning to learn libraries like Pandas for data manipulation along with Streamlit for putting Python projects on the web.
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/bsudz29">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bsudz29&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="bsudz29's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=bsudz29&theme=nightowl&hide_border=true&cache_seconds=86400" alt="bsudz29's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=bsudz29&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="bsudz's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=bsudz29&theme=nightowl&radius=10" alt="bsudz29's Activity Graph" />
-</p>
-
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-
-</p>
+## Learning out loud
 
 <p align="center">
-  <a href="https://github.com/bsudz29">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bsudz29&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
-  </a>
+  <img src="https://www.gitskins.com/api/section/hero?username=bsudz29&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F110067561%3Fv%3D4" alt="bsudz29 hero visual" />
 </p>
+
+**Brian Sudberg**
+
+**Languages**
+
+- Python
+
+## Languages I'm practicing
+
+- **Python** · 100%
+
+## Projects in progress
+
+<details>
+<summary><b>neetcode-submissions</b> · Python</summary>
+
+My NeetCode.io problem submissions<br/>
+Stars: 0 · Forks: 0
+
+[View repository](https://github.com/bsudz29/neetcode-submissions)
+</details>
+
+<details>
+<summary><b>bsudz29</b> · open source</summary>
+
+A selected project from this GitHub profile.<br/>
+Stars: 0 · Forks: 0
+
+[View repository](https://github.com/bsudz29/bsudz29)
+</details>
+
+<details>
+<summary><b>blackjack</b> · Python</summary>
+
+A selected project from this GitHub profile.<br/>
+Stars: 0 · Forks: 0
+
+[View repository](https://github.com/bsudz29/blackjack)
+</details>
+
+## Progress so far
+
+- **Current streak:** 1 days
+- **Longest streak:** 4 days
+- **Active days:** 5 days
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+  <img src="https://www.gitskins.com/api/section/stats?username=bsudz29&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F110067561%3Fv%3D4" alt="bsudz29 stats visual" />
 </p>
 
+## Study streak
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=bsudz29&theme=zen" alt="bsudz29 contribution activity" />
+</p>
+
+## Say hi
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=bsudz29&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F110067561%3Fv%3D4" alt="bsudz29 social visual" />
+</p>
+
+<a href="https://github.com/bsudz29">GitHub</a>
+
+<p align="center"><sub>Brian Sudberg · <a href="https://www.gitskins.com/readme-generator?template=community-study-hall-mr46">Study Hall</a> template by <a href="https://www.gitskins.com/templates">GitSkins</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
+<!-- gitskins:architecture -->
+### How [blackjack](https://github.com/bsudz29/blackjack) works
+
+This is a small Streamlit blackjack game.
+
+<a href="https://github.com/bsudz29/blackjack"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/repo-diagram/image?owner=bsudz29&amp;repo=blackjack&amp;theme=dark&amp;v=1794074387919">
+  <img alt="Architecture diagram of bsudz29/blackjack" src="https://www.gitskins.com/api/repo-diagram/image?owner=bsudz29&amp;repo=blackjack&amp;theme=light&amp;v=1794074387919">
+</picture></a>
+
+<sub>Drawn from the code by <a href="https://www.gitskins.com">GitSkins</a></sub>
+<!-- /gitskins:architecture -->
