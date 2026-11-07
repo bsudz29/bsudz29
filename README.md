@@ -4,9 +4,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=bsudz29&theme=zen&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F110067561%3Fv%3D4" alt="bsudz29 hero visual" />
 </p>
 
-**Brian Sudberg**
-
-##Languages
+## Languages
 
 - Python
 
